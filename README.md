@@ -11,8 +11,7 @@
 
 ![Open with other application](/virt-pref.png)
 
-   *make sure to have these in the picture below turned on*
-   ![Open with other application](/virt-pref2.png)
+   *make sure to have these in the picture below turned on:* ![Open with other application](/virt-pref2.png)
 
 
 
