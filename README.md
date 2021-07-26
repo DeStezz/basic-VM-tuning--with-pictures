@@ -8,7 +8,7 @@ For Windows VMs.........download ![this](https://fedorapeople.org/groups/virt/vi
 
 # Setting Global Preferences for new virtual machine installations
 
-1. change YOUR preferences to suite YOUR system for ALL VMs  using ``virt-pref.png`` then ``virt-pref2.png`` as a guide
+1. change YOUR preferences to suite YOUR system for ALL VMs  using the pictures below as a guide
 
 ![Open with other application](/virt-pref.png)
 
@@ -18,13 +18,13 @@ For Windows VMs.........download ![this](https://fedorapeople.org/groups/virt/vi
 
 # Installation of Virtual Machines
 
-2. follow through from ``virt-manager.png`` down till ``---> virt-manager3.png`` as a guide to adjusting/setting up your VMs quicker
+2. follow through from ``pic 1`` down till ``---> pic 3`` as a guide to adjusting/setting up your VMs quicker
 
-![Open with other application](/virt-manager.png)
+pic 1. ![Open with other application](/virt-manager.png)
 
-   ![Open with other application](/virt-manager2.png)
+   pic 2. ![Open with other application](/virt-manager2.png)
 
-![Open with other application](/virt-manager3.png)
+pic 3. ![Open with other application](/virt-manager3.png)
 
 
 
