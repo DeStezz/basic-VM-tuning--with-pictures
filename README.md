@@ -8,7 +8,7 @@ For Windows VMs.........download ![this](https://fedorapeople.org/groups/virt/vi
 
 # Setting Global Preferences for new virtual machine installations
 
-1. change your preferences to suite your system for ALL VMs  using ``virt-pref.png`` then ``virt-pref2.png`` as a guide
+1. change YOUR preferences to suite YOUR system for ALL VMs  using ``virt-pref.png`` then ``virt-pref2.png`` as a guide
 
 ![Open with other application](/virt-pref.png)
 
