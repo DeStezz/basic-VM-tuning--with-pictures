@@ -2,8 +2,9 @@
 
 *warning each system is different. settings may be different for you*
 
-# basic DIY (do it yourself) guide to turning VMs in virt-manager to help you get the fastest VMs the easy way
+# basic DIY (do it yourself) guide to tuning VMs in virt-manager to help you get the fastest VMs the easy way
 
+For Windows VMs.........download ![this](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.185-2/)
 
 # Setting Global Preferences for new virtual machine installations
 
@@ -11,7 +12,7 @@
 
 ![Open with other application](/virt-pref.png)
 
-   *make sure to have these in the picture below turned on:* ![Open with other application](/virt-pref2.png)
+   *make sure to have these in the picture below turned on:*![Open with other application](/virt-pref2.png)
 
 
 
@@ -26,4 +27,4 @@
 ![Open with other application](/virt-manager3.png)
 
 
-For Windows.........download ![this](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.185-2/)
+
