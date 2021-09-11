@@ -4,7 +4,7 @@
 
 # basic DIY (do it yourself) guide to tuning VMs in virt-manager to help you get the fastest VMs the easy way
 
-For Windows VMs.........download ![this](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/)
+For Windows VMs.........download [this](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/)
 
 # Setting Global Preferences for new virtual machine installations
 
